@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DigitalQ</string>
+    <string name="my_account">My Account</string>
+    <string name="queue">Queue</string>
+    <string name="logout">Logout</string>
+    <string name="departments">Departments</string>
+    <string name="location">Location</string>
+    <string name="about">About</string>
+    <string name="loginLabel">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_click_here">Don\'t have an account? Click here.</string>
+    <string name="welcome_to_digitalq">Welcome to DigitalQ</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="queue_in_your_comfort_zone">Queue in your comfort zone</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="already_have_an_account_click_here">Already have an account? Click here.</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="welcome_to_helen_joseph_hospital">Welcome to Helen Joseph Hospital</string>
+    <string name="department">Department</string>
+    <string name="queue_length">Queue length</string>
+    <string name="your_calling_number_is">Your calling number is: </string>
+    <string name="na">N/A</string>
+    <string name="ok">Ok</string>
+    <string name="exit_queue">Exit queue</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="check_in">Check In</string>
+    <string name="illness">Illness</string>
+    <string name="disability">Disability</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="cell_number">Cellphone number</string>
+    <string name="waiting_time">Waiting time:</string>
+    <string name="queueLabel">Queue:</string>
+    <string name="pharmacy">Pharmacy</string>
+    <string name="payment">Payment</string>
+    <string name="polyclinic">Polyclinic</string>
+    <string-array name="list_departments">
+        <item>Polyclinic</item>
+        <item>Pharmacy</item>
+        <item>Payment</item>
+    </string-array>
+    <string name="title_activity_location">Map</string>
+</resources>

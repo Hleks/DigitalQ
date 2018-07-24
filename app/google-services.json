@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "510925473894",
+    "firebase_url": "https://digitalq-1530105084377.firebaseio.com",
+    "project_id": "digitalq-1530105084377",
+    "storage_bucket": "digitalq-1530105084377.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510925473894:android:58d6da7ef81cf803",
+        "android_client_info": {
+          "package_name": "com.example.hleks.digitalq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510925473894-f4uqc1e45vasr59kpk0eic7456j73lhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTm_cY1w3S75lkx_7GU7xDsIiHYy02WM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510925473894:android:333bc2a5ca4862ec",
+        "android_client_info": {
+          "package_name": "com.example.hleks.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510925473894-f4uqc1e45vasr59kpk0eic7456j73lhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtTm_cY1w3S75lkx_7GU7xDsIiHYy02WM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
